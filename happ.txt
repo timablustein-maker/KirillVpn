@@ -1,4 +1,4 @@
-# profile-title: [ Kirill Vpn ]
+# profile-title: [ FertenLocal Vpn ]
 
 vless://10e1b54e-9bd1-4181-b337-3e464f8051ec@213.219.212.105:443?flow=xtls-rprx-vision&fp=firefox&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&security=reality&sni=eh.vk.ru&type=tcp#🇷🇺 Russia (213.219.212.105)
 vless://10e1b54e-9bd1-4181-b337-3e464f8051ec@213.219.212.24:443?flow=xtls-rprx-vision&encryption=none&type=tcp&security=reality&fp=firefox&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk#🇷🇺 Russia (213.219.212.24)
